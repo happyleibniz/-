@@ -6,3 +6,5 @@
 # 看不懂英文的可以采用翻译 | Những người không hiểu tiếng Anh có thể sử dụng phiên dịch. | For those who cannot understand English, translation can be used
 # 必要条件 | Requirements
 ### 1. C++ 编译器: https://sourceforge.net/projects/mingw/
+
+# 烷亿烷，没逝的
