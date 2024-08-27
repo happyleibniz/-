@@ -1,0 +1,8 @@
+﻿  exam.cpp
+C:\Users\leibniz\Desktop\Documents\allc++\ev\exam.cpp(160,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  1 of 363 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ev.vcxproj -> C:\Users\leibniz\Desktop\Documents\allc++\ev\x64\Release\ev.exe

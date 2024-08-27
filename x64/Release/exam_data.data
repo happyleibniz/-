@@ -1,0 +1,12 @@
+Type: Traditional Question
+explain
+[Title Description]
+Input a positive integer N (1<N<20000), and output the sum of all positive integers between 1 and N (including 1 and N).
+[Input Description]
+Enter a positive integer N (1<N<20000)
+[Output Description]
+Output the sum of all positive integers between 1 and N (including 1 and N)
+[Sample Input]
+3
+[Sample Output]
+6
